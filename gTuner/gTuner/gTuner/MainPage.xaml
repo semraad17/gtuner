@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gTuner.MainPage"
+             Title="G TUNER">
+
+    <StackLayout BackgroundColor="White">
+        <!--<Frame BorderColor="White" Padding="0" />
+        <Label Text="A#" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="Black" FontSize="36" Margin="0, 250, 0, 0" />
+        <Label Text="116.50 Hz" HorizontalTextAlignment="Center" TextColor="Gray" FontSize="15" Margin="0,-10"/>-->
+
+        <Label Text="Drop C#" FontAttributes="Bold" TextColor="Black" FontSize="25" Margin="30, 250, 0, 0"/>
+        <Grid Padding="20" Margin="10,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="s1"  FontAttributes="Bold" Text="C#" FontSize="25" TextColor="Black" Grid.Row="0" Grid.Column="0" />
+            <Label x:Name="s2" FontAttributes="Bold" Text="G#" FontSize="25" TextColor="Black" Grid.Row="0" Grid.Column="1" />
+            <Label x:Name="s3" FontAttributes="Bold" Text="C#" FontSize="25" TextColor="Black" Grid.Row="0" Grid.Column="2" />
+            <Label x:Name="s4" FontAttributes="Bold" Text="F#" FontSize="25" TextColor="Black" Grid.Row="0" Grid.Column="3" />
+            <Label x:Name="s5" FontAttributes="Bold" Text="A#" FontSize="25" TextColor="Black" Grid.Row="0" Grid.Column="4" />
+            <Label x:Name="s6" FontAttributes="Bold" Text="D#" FontSize="25" TextColor="Black" Grid.Row="0" Grid.Column="5" />
+        </Grid>
+
+        <Button Text="Vybrat ladění" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Clicked="SelectTuning" BorderWidth="20"/>
+    </StackLayout>
+
+</ContentPage>

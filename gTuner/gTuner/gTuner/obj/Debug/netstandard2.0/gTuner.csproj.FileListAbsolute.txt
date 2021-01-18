@@ -1,0 +1,30 @@
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\gTuner.deps.json
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\gTuner.dll
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.AssemblyInfo.cs
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\ref\gTuner.dll
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\gTuner.pdb
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.dll
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\ref\gTuner.dll
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.pdb
+C:\Users\Adam\source\repos\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\Tunings.xaml.g.cs
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\gTuner.deps.json
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\gTuner.dll
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\ref\gTuner.dll
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\bin\Debug\netstandard2.0\gTuner.pdb
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\Tunings.xaml.g.cs
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.AssemblyInfo.cs
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.dll
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\ref\gTuner.dll
+C:\Users\Adam\source\repos\gTuner v2\gTuner\gTuner\gTuner\obj\Debug\netstandard2.0\gTuner.pdb

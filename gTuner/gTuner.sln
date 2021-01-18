@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gTuner.Android", "gTuner\gTuner.Android\gTuner.Android.csproj", "{DB4189BB-E0CC-4906-A3F3-F082D9BC6960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gTuner", "gTuner\gTuner\gTuner.csproj", "{64B14A53-C8BB-4948-8BB8-EBE2864C025D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4189BB-E0CC-4906-A3F3-F082D9BC6960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4189BB-E0CC-4906-A3F3-F082D9BC6960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4189BB-E0CC-4906-A3F3-F082D9BC6960}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DB4189BB-E0CC-4906-A3F3-F082D9BC6960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4189BB-E0CC-4906-A3F3-F082D9BC6960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4189BB-E0CC-4906-A3F3-F082D9BC6960}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{64B14A53-C8BB-4948-8BB8-EBE2864C025D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B14A53-C8BB-4948-8BB8-EBE2864C025D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B14A53-C8BB-4948-8BB8-EBE2864C025D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{64B14A53-C8BB-4948-8BB8-EBE2864C025D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B14A53-C8BB-4948-8BB8-EBE2864C025D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B14A53-C8BB-4948-8BB8-EBE2864C025D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {032AF522-CED0-422B-B89A-60531C3E37D3}
+	EndGlobalSection
+EndGlobal

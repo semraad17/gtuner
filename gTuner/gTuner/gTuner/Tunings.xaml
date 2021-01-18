@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gTuner.Tunings"
+             Title="VYBRAT LADĚNÍ">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="napis1"
+                       Text="E Standard"
+                       FontSize="24"
+                        Margin="40, 20, 0, -10"
+              
+                       TextColor="Black"
+                       FontAttributes="Bold"/>
+
+            <Grid Padding="20" BackgroundColor="White">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="24"  />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Určení čísel -->
+
+                <Label x:Name="napis1_ton1"
+                       Text="E"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="0"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis1_ton2"
+                       Text="A"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="1"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis1_ton3"
+                       Text="D"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="2"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis1_ton4"
+                       Text="G"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="3"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis1_ton5"
+                       Text="B"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="4"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis1_ton6"
+                       Text="E"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="5"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+
+            </Grid>
+            <ProgressBar Progress="0" />
+
+
+            <Label x:Name="napis2"
+                       Text="E Standard"
+                       FontSize="24"
+                        Margin="40, 20, 0, -10"
+              
+                       TextColor="Black"
+                       FontAttributes="Bold"/>
+
+            <Grid Padding="20" BackgroundColor="White">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="24"  />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Určení čísel -->
+
+                <Label x:Name="napis2_ton1"
+                       Text="E"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="0"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis2_ton2"
+                       Text="A"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="1"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis2_ton3"
+                       Text="D"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="2"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis2_ton4"
+                       Text="G"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="3"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis2_ton5"
+                       Text="B"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="4"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis2_ton6"
+                       Text="E"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="5"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+
+            </Grid>
+            <ProgressBar Progress="0" />
+
+            <Label x:Name="napis3"
+                       Text="E Standard"
+                       FontSize="24"
+                        Margin="40, 20, 0, -10"
+              
+                       TextColor="Black"
+                       FontAttributes="Bold"/>
+
+            <Grid Padding="20" BackgroundColor="White">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="24"  />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Určení čísel -->
+
+                <Label x:Name="napis3_ton1"
+                       Text="E"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="0"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis3_ton2"
+                       Text="A"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="1"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis3_ton3"
+                       Text="D"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="2"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis3_ton4"
+                       Text="G"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="3"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis3_ton5"
+                       Text="B"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="4"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="napis3_ton6"
+                       Text="E"
+                       FontSize="22"
+                       VerticalOptions="CenterAndExpand"
+                       Grid.Row="0" Grid.Column="5"
+                       TextColor="Gray"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
